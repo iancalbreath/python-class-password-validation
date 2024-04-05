@@ -1,7 +1,7 @@
 # Mac Littlefield's class
 # Driver for lab 8
 
-# Gets users first, last and ID no. and generates system login name
+# Gets users first, last and ID no. and generates uniform system username
 
 import login
 
